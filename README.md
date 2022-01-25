@@ -1,1 +1,1 @@
-# UIUC-STAT-410-Note
+# UIUC-STAT-410 Statistics and Probability II Note
